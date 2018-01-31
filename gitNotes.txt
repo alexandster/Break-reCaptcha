@@ -1,0 +1,9 @@
+git add .
+or
+git add --all
+
+git commit -m "message of your choice"
+
+git pull
+
+git push

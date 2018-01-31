@@ -1,0 +1,21 @@
+start:		x: 	52		y:	382
+
+top-left:	x:	193		y:	451
+
+top-center:	x:	376		y:	458
+
+top-right:	x:	598		y:	477
+
+middle-left:	x:	198		y:	653
+
+middle-center:	x:	370		y:	660
+
+middle-right:	x:	600		y:	640
+
+bottom-left:	x:	185		y:	876
+
+bottom-center:	x:	380		y:	860
+
+bottom-right:	x:	590		y:	865
+
+verify:		x:	590		y:	998
